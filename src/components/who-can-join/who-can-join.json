@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_who_can_join_who_can_joins",
+  "info": {
+    "displayName": "WhoCanJoin"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "icon": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

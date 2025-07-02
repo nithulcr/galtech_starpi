@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_week_curricula",
+  "info": {
+    "displayName": "curriculum"
+  },
+  "options": {},
+  "attributes": {
+    "week": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "details": {
+      "type": "json"
+    }
+  },
+  "config": {}
+}

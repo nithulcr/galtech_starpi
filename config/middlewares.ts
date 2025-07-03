@@ -4,7 +4,7 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: ['http://localhost:3000'],  // Allow your Next.js dev server
+      origin: ['https://your-vercel-app.vercel.app'],  // Allow your Next.js dev server
       methods: ['GET', 'POST', 'PUT', 'DELETE'],
       headers: '*',
     },
